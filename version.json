@@ -1,5 +1,6 @@
 {
     "version": "3.2.0",
-    "download_url": "https://github.com/SEU_USUARIO/SEU_REPO/releases/download/v3.2.0/Discord_Webhook_Sender_v3.2.zip",
+    "download_url": "https://raw.githubusercontent.com/raphaelsancho26-source/discord-webhook-sender/main/version.json",
     "release_notes": "- Salvamento automático de estado da janela\n- Sistema de auto-atualização\n- Melhorias de performance"
+
 }
